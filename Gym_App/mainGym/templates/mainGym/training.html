@@ -1,0 +1,20 @@
+{% extends 'mainGym/home.html'%}
+
+
+{% block title%}
+Страница тренировки
+{% endblock%}
+
+
+{% block text%}
+
+    {% for i in data_Exersises %}
+    Название: {{i.name}}
+    <br>
+    Повторы: {{i.repeats}}
+    <br>
+    Подходы: {{i.approaches}}
+    <br>   
+    {% endfor %}
+
+{% endblock %}
