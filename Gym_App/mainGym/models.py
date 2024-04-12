@@ -17,5 +17,6 @@ class Calendar(models.Model):
     def __str__(self):
         return f'{self.day}, {self.work_day_name}'
 
+#Гадигадагуду
 
 
