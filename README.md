@@ -1,3 +1,4 @@
-# Gym_App
-Фронт не приделан, так что макисмум, что могу показать сейчас это:
-![изображение](https://github.com/vxkingblitz/Gym_App/assets/148490936/b8647380-0764-40c0-ad9f-c2cea239fbe0)
+# Gym_App Ultra Demo Version
+front now has not exist, can show only this <3
+![изображение](https://github.com/vxkingblitz/Gym_App/assets/148490936/34ac625b-b0f1-4cc8-826d-45de3c8e3e3a)
+
